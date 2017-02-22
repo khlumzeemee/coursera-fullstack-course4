@@ -1,5 +1,6 @@
 * {
 	box-sizing: border-box;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -14,6 +15,16 @@ p {
 /*.row {
 	width: 100%;
 }*/
+
+h1 {
+	text-align: center;
+	font-size: 1.75em;
+}
+
+h2 {
+	font-size: 1.25em;
+	font-style: bold;
+}
 
 .title-container {
 	height: 30px;
